@@ -1,16 +1,28 @@
-# frases_do_dia
+# Frases do Dia
+![Badge](https://img.shields.io/static/v1?label=HTML&message=44.1%&color=brown&style=flat&logo=)
+![Badge](https://img.shields.io/static/v1?label=Dart&message=30.8%&color=blue&style=flat&logo=)
+![Badge](https://img.shields.io/static/v1?label=Objective-C&message=7.2%&color=green&style=flat&logo=)
+![Badge](https://img.shields.io/static/v1?label=Shell&message=6.1%&color=yellow&style=flat&logo=)
+![Badge](https://img.shields.io/static/v1?label=Java&message=5.8%&color=beige&style=flat&logo=)
+![Badge](https://img.shields.io/static/v1?label=Swift&message=4.5%&color=orange&style=flat&logo=)
+![Badge](https://img.shields.io/static/v1?label=Kotlin&message=1.5%&color=grey&style=flat&logo=)
 
-A new Flutter project.
+ #  Tecnologias :rocket:  
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Este projeto foi desenvolvido com a seguinte tecnologia:
 
-A few resources to get you started if this is your first Flutter project:
+-[Flutter](https://https://flutter.dev/docs)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+# Sobre o Projeto
+
+    Projeto realizado para praticar o que foi aprendido nas aulas ministradas pelos 
+    instrutores Jamilton Damasceno
+
+# Desenvolvedor ![](https://github.githubassets.com/images/icons/emoji/octocat.png) 
+
+
+[<img src="https://avatars3.githubusercontent.com/u/60005436?s=400&v=4" width=115 > <br> <sub> Diogo Moreira </sub>](https://github.com/DiogoMoreira01)
